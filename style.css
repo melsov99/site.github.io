@@ -1,0 +1,26 @@
+
+body{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)), url(https://www.worldatlas.com/upload/00/7a/a1/shutterstock-1544405363.jpg);
+}
+h1{
+  font-family:sans-serif;
+  font-size: 100px;
+  text-align: center;
+  color:#f0f1da;
+}
+.sport {
+
+}
+.main{
+
+}
+img{
+  margin-left: 215px;
+  margin-top: 100px;
+  width: 120px;
+  border: 10px solid white;
+  padding: 30px;
+}
+p{
+  right:100px;
+}
